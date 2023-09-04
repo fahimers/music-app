@@ -10,3 +10,6 @@ Install the relevant `node_modules` and fire up the development server:
 ```
 npm i && npm run dev
 ```
+
+Preview of last build: 
+https://deploy-preview-10--vigorous-fermat-4219fb.netlify.app/
